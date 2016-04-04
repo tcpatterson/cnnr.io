@@ -1,1 +1,2 @@
-# rizzybeats.com
+# cnnr.io
+Personal URL Shortening service

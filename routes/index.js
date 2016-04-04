@@ -7,7 +7,7 @@ router.get('/hidden', function(req, res, next) {
 });
 
 router.get('/', function(req, res, next) {
-	res.render('soon', { title: 'RizzyBeats' });
+	res.render('temp', { title: 'cnnr.io' });
 })
 
 module.exports = router;
