@@ -1,0 +1,21 @@
+.header {
+	height: 60px;
+	background-color: red;
+}
+
+.footer {
+	height: 100px;
+	background-color: blue;
+}
+
+.content {
+	height: 600px;
+	background-color: orange;
+	width: 80%;
+	margin: 0 auto;
+}
+
+html, body {
+	height: 100%;
+	overflow: hidden;
+}
